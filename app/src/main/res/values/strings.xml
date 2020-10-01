@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tugas</string>
+    <string name="logo_text">DTS Kominfo</string>
+    <!--<string name="next">NEXT</string>-->
+    <!--<string name="skip">SKIP</string>-->
+    <!--<string name="start">GOT IT</string>-->
+
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="get_started">MULAI</string>
+    <string name="log_in">Masuk</string>
+    <string name="reset_code">Reset code</string>
+    <string name="enter_your_reset_code">Enter your reset code</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="change_password">Change password</string>
+    <string name="username">Username</string>
+    <string name="send_request">Send Request</string>
+    <string name="enter_your_email_below">Please enter your email below to recieve your password reset instruction</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="reset_code_email">Reset code was sent to your email. Please enter the code and create new password.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="sukses">Successful!!</string>
+    <string name="successfully_changed_password">You have successfully changed password. Please use your new passwords when logging in</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="password">Password</string>
+    <string name="task_and_assign">Task and Assign</string>
+    <string name="welcome_to_dts_vsga">Welcome To DTS VSGA</string>
+    <string name="work_happen">Work Happen</string>
+    <string name="registration">Registration</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
